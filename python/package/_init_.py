@@ -1,0 +1,1 @@
+'''_init_.py is a special Python file that is used to indicate that the directory it is present in is a Python package. When this file is present, Python treats the directory as a package, allowing you to import modules from it.'''
